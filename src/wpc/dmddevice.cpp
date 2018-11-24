@@ -279,7 +279,6 @@ void renderAlphanumericFrame(UINT64 gen, UINT16 *seg_data, UINT8 total_disp, UIN
 			}
 			break;
 		case GEN_GTS80B:
-			break;
 		case GEN_GTS3:
 			// 2 many digits :(
 			layout = _2x20Alpha;
